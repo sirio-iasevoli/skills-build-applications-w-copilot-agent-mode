@@ -4,6 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "description": "OctoFit Tracker frontend application",
+  "homepage": "./",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirio-iasevoli/skills-build-applications-w-copilot-agent-mode.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
