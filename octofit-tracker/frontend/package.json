@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "OctoFit Tracker frontend application",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -27,3 +28,4 @@
     "vite": "^8.0.12"
   }
 }
+
